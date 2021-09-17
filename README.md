@@ -1,4 +1,4 @@
-# validador de email
+# Validador de email
 
 Esse projeto foi feito com intuito de fixar a lógica por trás do RTL 
 
